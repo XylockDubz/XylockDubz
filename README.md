@@ -1,9 +1,9 @@
 - 👋 hi, i’m @XylockDubz
 - 👀 i’m interested in video games & music.
-- 🌱 i’m currently learning audio plugin development.
-- 💞️ i’m looking to collaborate on you.
+- 🌱 i’m currently learning audio plugin & video game development.
+- 💞️ i’m looking to collaborate with you.
 - 📫 how to reach me: discord - xylockdubz
-- 😄 pronouns: they
+- 😄 pronoun: they
 - ⚡ fun fact: i make music.
 
 <!---
